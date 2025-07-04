@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-###Inexhaustible thirst for brain-teasers, be it quizzes, riddles, code or puzzles.
+### Inexhaustible thirst for brain-teasers, be it quizzes, riddles, code or puzzles.
 
-###*Currently studying programming at Hive Helsinki*
+### *Currently studying programming at Hive Helsinki*
 
 **I'm especially drawn to technologies that justify themselves by:**
   - Improving wellbeing — in healthcare, education, accessibility, or the arts
