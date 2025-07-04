@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### *Inexhaustible thirst for brain-teasers, be it quizzes, riddles, code or puzzles. Or crochet...* 🧶
+***Developer with inexhaustible thirst for brain-teasers, be it quizzes, riddles, code or puzzles. Or crochet...*** 🧶
 
 👩‍💻 Currently studying programming at Hive Helsinki
 
