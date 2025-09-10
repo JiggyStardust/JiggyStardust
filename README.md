@@ -31,5 +31,7 @@ Constantly trying to learn new skills and expand my horizons towards green codin
 - 3D illusion created by raycasting
 - Possibility to travel inside a maze with your own map and textures
 
+![preview](https://github.com/JiggyStardust/cub3D/blob/main/cub3d.gif)
+
 ### [My custom C-function library](https://github.com/JiggyStardust/Libft)
 - Some C functions reimplemented with restrictions
