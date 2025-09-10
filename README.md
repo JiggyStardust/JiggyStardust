@@ -15,4 +15,21 @@
 
 Constantly trying to learn new skills and expand my horizons towards green coding practices.
 
-**📬 Don't be a stranger**
+**Don't be a stranger** ⮕ [LinkedIn](https://www.linkedin.com/in/saara-leena-niemela/)
+
+# Some of my latest projects
+
+## Further details found in repos' documentations
+
+### [webserver](https://github.com/JiggyStardust/webserv) 
+- built from scratch
+- inspired by nginx
+- serves static files and directories
+
+### [3D Maze Runner](https://github.com/JiggyStardust/cub3D)
+- Inspired by Wolfenstein 3D
+- 3D illusion created by raycasting
+- Possibility to travel inside a maze with your own map and textures
+
+### [My custom C-function library](https://github.com/JiggyStardust/Libft)
+- Some C functions reimplemented with restrictions
