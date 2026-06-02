@@ -2,7 +2,7 @@
 
 ***Developer with inexhaustible thirst for brain-teasers, be it quizzes, riddles, code or puzzles. Or crochet...*** 🧶
 
-👩‍💻 Currently studying programming at Hive Helsinki
+👩‍💻 Recent programming graduate from Hive Helsinki
 
 👩‍🎤 Background and parallel presence in music
 
