@@ -8,13 +8,6 @@
 
 👩‍🏫 ... and education
 
-**I'm especially drawn to technologies that justify themselves by:**
-  - Improving wellbeing (healthcare, education, accessibility, the arts...)
-  - Helping organizations run more efficiently and sustainably
-  - Promoting long-term responsible design
-
-Constantly trying to learn new skills and expand my horizons towards green coding practices.
-
 **Don't be a stranger** ⮕ [LinkedIn](https://www.linkedin.com/in/saara-leena-niemela/)
 
 # Some of my latest projects
